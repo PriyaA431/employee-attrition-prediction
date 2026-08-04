@@ -1,4 +1,3 @@
-
 # Employee Attrition Prediction
 
 A Machine Learning project that predicts whether an employee is likely to leave an organization using HR analytics data.
@@ -47,7 +46,3 @@ employee-attrition-prediction/
 ## 📊 Dataset
 
 Dataset: IBM HR Analytics Employee Attrition Dataset
-
-## 📌 Status
-
-🚧 Project setup in progress.
