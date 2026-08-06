@@ -4,7 +4,7 @@ A Machine Learning project that predicts whether an employee is likely to leave 
 
 ## 🎯 Objective
 
-The goal of this project is to analyze employee data, identify factors contributing to attrition, and build a predictive machine learning model to help organizations improve employee retention.
+The goal of this project is to analyze employee data, identify factors contributing to attrition, and build a predictive machine learning model to help organizations improve employee retention. 
 
 ## 🛠️ Tech Stack
 
